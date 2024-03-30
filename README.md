@@ -11,7 +11,7 @@
 I am a 3rd-year student with a strong interest in Full Stack Development. I love to hear about machine learning and artificial intelligence, and I consider to be an exceptional software developer. Let's explore the world of coding together!</p>
 <br>
 
-![I am Tech Optimist and Highly Curious about Technology!!](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pfnky6rfz0wf9dzwt5u.png)
+![I am Tech Optimist and Highly Curious about Technology!!](https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_62f25066e3e5060716bf95c8_Top_10_best_VS_Code_extensions_for_React_js_OG_Image_0effc10691.jpg)
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
