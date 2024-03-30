@@ -46,14 +46,6 @@ I created this project for fun! It allows you to create neat and simple GitHub R
 <br>
 <br>
 <div align="right">
-    <p align="left">To learn more about me, <b>you can find me on Google</b><br>
-    CLICK THE ICON BELOW ---></p>
-    <a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
-    <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
-    </a>
-    <a href="https://www.instagram.com/srijansamridh/">
-        <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
-    </a>
     <a href="https://www.linkedin.com/in/srijan-samridh/">
         <img align="left" height="40" src="https://boncoach.com/wp-content/uploads/2021/10/connectionlinkedinnetworksocialsquaresquaredicon-1320086082476543960.png" alt="">
     </a>
@@ -61,6 +53,6 @@ I created this project for fun! It allows you to create neat and simple GitHub R
 <br>
 <br>
 <hr>
-<img align="right" height="400" width="1000" src="images/swiftLogo.jpeg" alt="" style="border-radius:20%">
+<img align="right" height="400" width="1000" src="https://media.licdn.com/dms/image/D5612AQF7iuptNGj9Ew/article-cover_image-shrink_600_2000/0/1687342343042?e=2147483647&v=beta&t=ezgwiUnMQgkP21d6XqmFYQReD5u4PFDBUwZzyVr9r2c" alt="" style="border-radius:20%">
 
 Let's embark on this coding journey together and create something amazing! 🚀
