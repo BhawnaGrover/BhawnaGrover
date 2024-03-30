@@ -53,6 +53,4 @@ I created this project for fun! It allows you to create neat and simple GitHub R
 <br>
 <br>
 <hr>
-<img align="right" height="400" width="1000" src="https://media.licdn.com/dms/image/D5612AQF7iuptNGj9Ew/article-cover_image-shrink_600_2000/0/1687342343042?e=2147483647&v=beta&t=ezgwiUnMQgkP21d6XqmFYQReD5u4PFDBUwZzyVr9r2c" alt="" style="border-radius:20%">
-
 Let's embark on this coding journey together and create something amazing! 🚀
