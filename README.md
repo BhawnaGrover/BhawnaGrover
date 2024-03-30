@@ -46,7 +46,7 @@ I created this project for fun! It allows you to create neat and simple GitHub R
 <br>
 <br>
 <div align="right">
-    <a href="https://www.linkedin.com/in/srijan-samridh/">
+    <a href="https://www.linkedin.com/in/bhawna-grover-5ba97b206/" target="blank">
         <img align="left" height="40" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="">
     </a>
 </div>
