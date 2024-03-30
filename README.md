@@ -8,14 +8,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BhawnaGrover&label=Profile%20views&color=0e75b6&style=flat" alt="BhawnaGrover" /> </p>
 
 <p align="center"><strong>A Tech Optimist and Highly Curious Techy, from India!!</strong><br>
-I'm a 3rd-year student passionate about Full Stack Development. I enjoy exploring ML & AI and aspire to be a proficient Android and iOS App Developer. Let's dive into the world of coding together!</p>
+I'm a 3rd-year student passionate about Full Stack Development. I enjoy exploring ML & AI and aspire to be a proficient Software Developer. Let's dive into the world of coding together!</p>
 <br>
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-<img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
+<img align="right" height="300" alt="My Octocat" src="[https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzmBtgfgdJjudglvP-9nt200fFAhC_PbXDw&usqp=CAU)" />
 
 > <h3> Brief Info About Me!!</h3>
 <p>
