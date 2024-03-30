@@ -39,7 +39,7 @@ I'm highly teachable, enjoy working collaboratively, and have a strong work ethi
 I created this project for fun! It allows you to create neat and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
-<img align="left" height="330" src="images/android-199225.jpg"> 
+<img align="left" height="330" src="https://media.licdn.com/dms/image/D5612AQF7iuptNGj9Ew/article-cover_image-shrink_600_2000/0/1687342343042?e=2147483647&v=beta&t=ezgwiUnMQgkP21d6XqmFYQReD5u4PFDBUwZzyVr9r2c"> 
 
 <br>
 <br>
