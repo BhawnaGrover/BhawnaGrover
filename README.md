@@ -8,10 +8,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BhawnaGrover&label=Profile%20views&color=0e75b6&style=flat" alt="BhawnaGrover" /> </p>
 
 <p align="center"><strong>A Tech Optimist and Highly Curious Techy, from India!!</strong><br>
-I'm a 3rd-year student passionate about Full Stack Development. I enjoy exploring ML & AI and aspire to be a proficient Software Developer. Let's dive into the world of coding together!</p>
+I am a 3rd-year student with a strong interest in Full Stack Development. I love to hear about machine learning and artificial intelligence, and I consider to be an exceptional software developer. Let's explore the world of coding together!</p>
 <br>
 
-![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
+![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzmBtgfgdJjudglvP-9nt200fFAhC_PbXDw&usqp=CAU)
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
