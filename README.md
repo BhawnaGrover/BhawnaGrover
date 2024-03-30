@@ -15,7 +15,7 @@ I am a 3rd-year student with a strong interest in Full Stack Development. I love
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-<img align="right" height="300" alt="My Octocat" src="https://img.freepik.com/free-vector/front-end-concept-illustration_114360-22213.jpg?t=st=1711817355~exp=1711820955~hmac=9383c13fab9f78af49e542faa1cb2b4e1aac5c0bdad8e09c7463a78268f6ebd1&w=1380" />
+<img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 > <h3> Brief Info About Me!!</h3>
 <p>
