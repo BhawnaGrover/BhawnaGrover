@@ -15,7 +15,7 @@ I am a 3rd-year student with a strong interest in Full Stack Development. I love
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-<img align="right" height="300" alt="My Octocat" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-6765192-5607777.png?f=webp"/>
+<img align="right" height="300" alt="My Octocat" src="[[https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png](https://www.mindinventory.com/blog/wp-content/uploads/2022/03/react-nodejs.webp)](https://www.mindinventory.com/blog/wp-content/uploads/2022/03/react-nodejs.webp)" />
 
 > <h3> Brief Info About Me!!</h3>
 <p>
@@ -29,9 +29,9 @@ I'm highly teachable, enjoy working collaboratively, and have a strong work ethi
 <br>
 <br>
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhawnaGrover&show_icons=true)
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhawnaGrover&layout=compact">
 
 
 > Skills: Python / JAVA / Flutter / React / HTML / CSS / JS /C++ /OOPS /DBMS
@@ -47,7 +47,7 @@ I created this project for fun! It allows you to create neat and simple GitHub R
 <br>
 <div align="right">
     <a href="https://www.linkedin.com/in/srijan-samridh/">
-        <img align="left" height="40" src="https://boncoach.com/wp-content/uploads/2021/10/connectionlinkedinnetworksocialsquaresquaredicon-1320086082476543960.png" alt="">
+        <img align="left" height="40" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="">
     </a>
 </div>
 <br>
